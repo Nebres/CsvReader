@@ -1,0 +1,17 @@
+Task:
+Produce JSON with appropriate structure using exmple data provided.
+Each file consist one line with explanation of format used in it.
+Think about format, how they connect etc. 
+If you have troubles with creating appropriate model please let us know - we will provide some help which we divided in tiers.
+
+EXTRA:
+create REST API for this structure (using Spring Boot for example)
+
+Tier 1 help
+we will provide explanation of data format
+
+Tier 2 help
+we will provide example JSON for this model
+
+Tier 3 help
+we will provide UML model for data structure to use 
